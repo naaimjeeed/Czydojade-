@@ -1,0 +1,25 @@
+{
+  "name": "czydojade-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ "scripts": {
+  "build": "tsc",
+  "start": "node dist/index.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naaimjeeed/Czydojade-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/naaimjeeed/Czydojade-/issues"
+  },
+  "homepage": "https://github.com/naaimjeeed/Czydojade-#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
